@@ -1,2 +1,2 @@
-# CENG-3020---Self-Serve-Kiosk
+# Self Serve Information Kiosk
 Group project for CENG 3020
